@@ -1,0 +1,4 @@
+Logged at 2024-05-19 20:01:29.825345
+This training session ran episodes: [1000, 2000]
+Session 0 | Episodes: 1000 | Success Rate: 90.90%
+Session 1 | Episodes: 2000 | Success Rate: 94.85%
