@@ -7,7 +7,7 @@ This project seeks to reduce instances of bike unavailability at stations where 
 At a high level, we want to reward the agent when rides are taken and penalize it when there is demand for a ride and there is no vehicle available. 
 One method looks to penalize the structure for empty vehicle stations (no vehicles = no rides can be taken) to ensure that stations have at least one (or a certain percentage threshold of) vehicle(s) for riders to use. 
 
-Using reinforcement learning techniques, namely DQN and Q-Learning methods, we simulate bike stock in a docking station. We employ the rebalancing agent in two environments, testing both linear and nonlinear delta rates, to test how its adaptation abilities.
+Using reinforcement learning techniques, namely DQN and Q-Learning methods, we simulate bike stock in a docking station. We employ the rebalancing agent in two environments, testing both linear and nonlinear delta rates, to test its adaptation abilities.
 
 ## Background
 Consider the Divvy or Citi Bike stations in New York City, Chicago, etc. Shared vehicle stations can become overstocked and require rebalancing intervention to shift vehicle supply to understocked locations. 
